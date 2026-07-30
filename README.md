@@ -1,0 +1,1 @@
+En la práctica se creó una clase Persona utilizando el método constructor, se implementó el método saludar(), y se aprendió a utilizar los métodos setName() y getName() para modificar y consultar el nombre de un objeto. También se crearon y manipularon varios objetos de la clase.
