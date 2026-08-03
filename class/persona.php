@@ -16,6 +16,11 @@ class Persona
         $this->documento = $documento;
         $this->ciudad = $ciudad;
     }
+    public function setNombre($nombre)
+    {
+        if (is_string($nombre) && trim($nombre) !== "") 
+    }
+
 
     public function setName($nombre)
     {
